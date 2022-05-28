@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anirban-Chand
 - 👀 I’m interested in collaborating on projects
 - 🌱 I’m currently learning Python Django Framework
-- 💞️ I’m looking to collaborate on Flutter and Python projects
+- 💞️ I’m looking for collaborating on Flutter and Python projects
 - 📫 Email - anirbanchand54@gmail.com
 - 📫 LinkedIn - www.linkedin.com/in/anirban-chand-36b0351a2
 
