@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Anirban-Chand
+# Hi there👋
+[![@ac7's Holopin board](https://holopin.me/ac7)](https://holopin.io/@ac7)
 - 👀 I’m interested in collaborating on projects
 - 🌱 I’m currently learning Python Django Framework
 - 💞️ I’m looking for collaborating on Flutter and Python projects
 - 📫 Email - anirbanchand54@gmail.com
 - 📫 LinkedIn - www.linkedin.com/in/anirban-chand-36b0351a2
-- 📌 Holopin Dashboard - [![@ac7's Holopin board](https://holopin.me/ac7)](https://holopin.io/@ac7)
 
 
 <!---
